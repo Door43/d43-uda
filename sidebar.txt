@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uda:home|Door43 (uda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uda|d43-uda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uda/archive/master.zip|d43-uda.zip]]
+
+**Recent Changes**
+{{changes>ns = uda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uda|Ethnologue data]]
+
